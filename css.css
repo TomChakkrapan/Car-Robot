@@ -94,7 +94,10 @@ a:hover {
 
 .intro {
   padding: 95px 0px 70px 0px;
-  overflow-x: hidden; }
+  overflow-x: hidden; 
+  display: grid;
+  justify-content: center;
+}
   .intro img {
     width: 81px;
     height: 81px;
